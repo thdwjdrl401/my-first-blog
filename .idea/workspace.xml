@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="962ec447-81c1-4027-bc5d-848cbe31073a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UITjEa9qlEIKbbszxQABAXuL5A" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mysite/blog/static/img" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\안소희\Django\project1\mysite\blog\templates\blog" />
+      <recent name="C:\Users\안소희\Django\project1\mysite\blog\static" />
+      <recent name="C:\Users\안소희\Django\project1\mysite\blog\static\vendor" />
+      <recent name="C:\Users\안소희\Django\project1\mysite\blog\static\mainapp" />
+      <recent name="C:\Users\안소희\Django\project1\mysite\blog\static\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\안소희\Django\project1\mysite\blog\static\img" />
+      <recent name="C:\Users\안소희\Django\project1\mysite\blog\static" />
+      <recent name="C:\Users\안소희\Django\project1\mysite\blog\templates\blog" />
+      <recent name="C:\Users\안소희\Django\project1\mysite\blog\static\mainapp" />
+      <recent name="C:\Users\안소희\Django\project1\mysite\blog" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Python.DjangoServer" factoryName="Django server" nameIsGenerated="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="mysite.settings" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\안소희\Django\project1\myvenv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="962ec447-81c1-4027-bc5d-848cbe31073a" name="Default Changelist" comment="" />
+      <created>1575043243383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575043243383</updated>
+      <workItem from="1575043250473" duration="2068000" />
+      <workItem from="1575045614325" duration="5387000" />
+      <workItem from="1575098520949" duration="17876000" />
+      <workItem from="1575364094518" duration="2600000" />
+      <workItem from="1575368819627" duration="996000" />
+      <workItem from="1575369926646" duration="20100000" />
+      <workItem from="1575424531344" duration="3084000" />
+      <workItem from="1575427903674" duration="217000" />
+      <workItem from="1575478476191" duration="1621000" />
+      <workItem from="1575519022296" duration="2058000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
